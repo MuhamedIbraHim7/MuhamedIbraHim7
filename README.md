@@ -2,7 +2,8 @@
 - 👀 I’m interested in data science, machine learning, and AI.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate in Data Science Field.
-- 📫 How to reach me https://www.linkedin.com/in/mohamed-ibrahim-819468216/
+- 📫 How to reach me www.linkedin.com/in/mohammed-ibrahim-819468216
+
 
 <!---
 MuhamedIbraHim7/MuhamedIbraHim7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
