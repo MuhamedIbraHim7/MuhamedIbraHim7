@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MuhamedIbraHim7
-- 👀 I’m interested in data science, machine learning, and AI.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate in Data Science Field.
+A highly motivated Computer Science graduate with a solid foundation in Data Science, Machine Learning, and Deep Learning. Passionate about leveraging data to drive business insights and solve complex problems. Proficient in Python, SQL, and data visualization tools. 
 - 📫 How to reach me www.linkedin.com/in/mohammed-ibrahim-819468216
 
 
