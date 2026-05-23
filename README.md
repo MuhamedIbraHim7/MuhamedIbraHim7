@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+<h3 align="center">A passionate AI Engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **Generative AI**
 
